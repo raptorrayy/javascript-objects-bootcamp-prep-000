@@ -1,4 +1,4 @@
-var playlist = {aristName};
+var playlist = {aristName: "songTitle"};
 
 function updatePlaylist(playlist, key, value){
   playlist.artistName = "Phil Ochs";
