@@ -1,7 +1,7 @@
 var playlist = {aristName: "songTitle"};
 
 function updatePlaylist(playlist, key, value){
-  playlist.artistName = "Phil Ochs";
-  playlist.songTitle = "Here's to the State of Mississippi";
-  return playlist;
+  this.key = "Phil Ochs";
+  this.value = "Here's to the State of Mississippi";
+  playlist = {
 }
